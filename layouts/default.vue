@@ -1,25 +1,20 @@
 <template>
     <div>
-        <Header />
-        <main>
-            <nuxt />
-        </main>
-        <Footer />
+        <div class="relative">
+            <Header />
+
+            <div class="container mx-auto py-8">
+                <slot></slot>
+            </div>
+
+            <Footer />
+        </div>
     </div>
 </template>
 
-<script>
-import Header from '~/components/Header.vue'
-import Footer from '~/components/Footer.vue'
 
-export default {
-    components: {
-        Header,
-        Footer
-    }
+<style scoped>
+main{
+    flex: 1;
 }
-</script>
-
-<style>
-/* Estilos para o layout */
 </style>

@@ -1,0 +1,36 @@
+[
+  {
+    "nome": "JavaScript",
+    "projetos": []
+  },
+  {
+    "nome": "Vue.js",
+    "projetos": [
+      {
+        "nome": "Portifólio",
+        "link": "https://github.com/Schvras/portfolio"
+      }
+    ]
+  },
+  {
+    "nome": "Nuxt.js",
+    "projetos": []
+  },
+  {
+    "nome": "React",
+    "projetos": []
+  },
+  {
+    "nome": "Angular",
+    "projetos": [
+    ]
+  },
+  {
+    "nome": "HTML5",
+    "projetos": []
+  },
+  {
+    "nome": "CSS3",
+    "projetos": []
+  }
+]
