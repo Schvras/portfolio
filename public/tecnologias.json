@@ -1,10 +1,36 @@
 [
   {
-    "nome": "JavaScript",
+    "nome": "Genexus",
     "projetos": []
   },
   {
+    "nome": "JavaScript",
+    "projetos": [
+      {
+        "nome": "Portifólio",
+        "link": "https://github.com/Schvras/portfolio"
+      },
+      {
+        "nome": "Knowledge",
+        "link": "https://github.com/Schvras/knowledge"
+      }
+    ]
+  },
+  {
     "nome": "Vue.js",
+    "projetos": [
+      {
+        "nome": "Portifólio",
+        "link": "https://github.com/Schvras/portfolio"
+      },
+      {
+        "nome": "Knowledge",
+        "link": "https://github.com/Schvras/knowledge"
+      }
+    ]
+  },
+  {
+    "nome": "Nuxt.js",
     "projetos": [
       {
         "nome": "Portifólio",
@@ -13,24 +39,46 @@
     ]
   },
   {
-    "nome": "Nuxt.js",
-    "projetos": []
-  },
-  {
     "nome": "React",
     "projetos": []
   },
   {
     "nome": "Angular",
-    "projetos": [
-    ]
-  },
-  {
-    "nome": "HTML5",
     "projetos": []
   },
   {
-    "nome": "CSS3",
+    "nome": "Express.js",
+    "projetos": [
+      {
+        "nome": "Knowledge",
+        "link": "https://github.com/Schvras/knowledge"
+      }
+    ]
+  },
+  {
+    "nome": "Knex",
+    "projetos": [
+      {
+        "nome": "Knowledge",
+        "link": "https://github.com/Schvras/knowledge"
+      }
+    ]
+  },
+  {
+    "nome": "PotsgreSQL",
+    "projetos": [
+      {
+        "nome": "Knowledge",
+        "link": "https://github.com/Schvras/knowledge"
+      }
+    ]
+  },
+  {
+    "nome": "C++",
+    "projetos": []
+  },
+  {
+    "nome": "Arduino",
     "projetos": []
   }
 ]
