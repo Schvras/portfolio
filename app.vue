@@ -1,5 +1,5 @@
 <template>
-    <title>Portfólio Jean</title>
+    <title>Meu Portfólio</title>
     <div>
         <NuxtLayout>
             <NuxtPage />
